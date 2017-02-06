@@ -2,10 +2,10 @@ Jekyll Clean Dark
 ============
 
 This theme was created on top of Jekyll Clean theme by Scotte, you can view the original version in action [on his blog](https://scotte.github.io).
-
+And I fork this blog from [Pavel Makhov's blog](http://pavelmakhov.com).
 * Get it from [github](https://github.com/streetturtle/jekyll-clean-dark).
 * See the [live demo](http://pavelmakhov.com/jekyll-clean-dark).
-* See it [in action on my own blog](http://pavelmakhov.com).
+* See it [in action on Pavel Makhov's blog](http://pavelmakhov.com).
 
 This theme uses some parts of Twitter Bootstrap, which allows it to look nice on a mobile devices using a collapsable nav bar and hiding the
 sidebar.
