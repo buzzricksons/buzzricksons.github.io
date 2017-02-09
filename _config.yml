@@ -11,11 +11,11 @@ url: https://buzzricksons.github.io
 baseurl:
 
 share:
-  facebook: true
+  facebook: buzzricksons
   twitter: yodarickson
-  gplus: true
+  gplus:
   linkedin: true
-  pinterest: true
+  pinterest:
   email: hcgoon@gmail.com
 
 social:
