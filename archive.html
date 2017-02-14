@@ -4,7 +4,7 @@ title: Blog archive
 ---
 <div class="page-content wc-container">
 	<div class="post">
-		<h1>Blog Archive</h1>  
+		<h1>블로그 글</h1>
 		{% for post in site.posts %}
 			{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
 			{% if currentyear != year %}
@@ -18,9 +18,9 @@ title: Blog archive
 	</div>
 </div>
 <div id="search">
-	<form role="search" method="get" action="{{ site.baseurl }}//search/">
+	<form role="search" method="get" action="{{ site.baseurl }}/search/">
 		<input id="searchString" name="searchString"
-			   placeholder="Be a Better Developer, etc." type="text">
+			   placeholder="" type="text">
 		<input id="searchButton" name="googleSearchName" type="submit" value="Search">
 	</form>
 </div>
