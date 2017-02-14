@@ -2,7 +2,7 @@
 layout: post
 title: "두번째 포스팅"
 date: 2017-02-12 17:44:00
-tags: 
+tags: 잡담
 description: 
 ---
 

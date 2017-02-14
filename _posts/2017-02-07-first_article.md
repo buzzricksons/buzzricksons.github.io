@@ -2,7 +2,7 @@
 layout: post
 title: "첫 포스팅"
 date: 2017-02-07 23:44:00
-tags: 
+tags: 잡담
 description: 
 ---
 
