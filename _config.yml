@@ -52,3 +52,6 @@ kramdown:
   hard_wrap: true
 
 exclude: ['README.md', 'LICENSE']
+
+gems:
+  - jekyll-seo-tag
