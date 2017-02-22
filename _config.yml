@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: 양산형 개발자의 홈
+name: 도쿄에 서식중인 양산형 개발자
 description: 일본에서 IT개발자로 살아가기
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -20,10 +20,11 @@ share:
 
 social:
   github: buzzricksons
-  stackoverflow: ''
+  stackoverflow:
+  stackoverflow:
   linkedin:
   instagram: buzzricksons
-  lastfm: ''
+  lastfm:
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
