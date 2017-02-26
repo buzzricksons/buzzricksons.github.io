@@ -5,7 +5,9 @@ description: 일본에서 IT개발자로 살아가기
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: https://buzzricksons.github.io
-#url: http://localhost:4000
+
+# For Local
+# url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl:
@@ -14,7 +16,7 @@ share:
   facebook: buzzricksons
   twitter: yodarickson
   gplus:
-  linkedin: true
+  linkedin:
   pinterest:
   email: hcgoon@gmail.com
 
