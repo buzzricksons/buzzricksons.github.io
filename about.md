@@ -1,8 +1,7 @@
 ---
 layout: page 
 title: About
-
 ---
 
 # Some info 
-...about how cool you are ;)
+![]({{site.baseurl | prepend:site.url}}/images/profile.jpg)
