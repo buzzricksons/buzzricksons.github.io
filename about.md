@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![]({{site.baseurl | prepend:site.url}}/images/profile.jpg)
+![]({{site.baseurl | prepend:site.url}}/images/profile_main.jpg)
 ```Text
 Do. Or Do not.
 There is no try.
