@@ -57,3 +57,7 @@ exclude: ['README.md', 'LICENSE']
 
 gems:
   - jekyll-seo-tag
+
+# custom
+custom:
+  print:
